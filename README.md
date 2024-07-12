@@ -1,7 +1,5 @@
-<div>
-    <img src="https://media1.tenor.com/m/6aSncIN19j8AAAAC/banner.gif" style="width: 100%; height: 30vh;" />
-    <img src="https://i.ibb.co/f4gnk8C/profile.png" alt="profile" border="0" style="border-radius: 100%; width: 10%; margin: -5rem 0 0 5rem;">
-</div>
+
+<img src="https://media1.tenor.com/m/6aSncIN19j8AAAAC/banner.gif" align="center" style="width: 100%; height: 30vh;" />
 <h1 align="center">My name is Paul Borisade</h1>
 <h3 align="center">My journey in software development has been driven by a deep curiosity and an unending desire to create and innovate. Constantly evolving and learning new things in the tech world. I love to immerse myself in the world of technology and my enthusiasm for learning keeps me on the lookout for the latest trends and advancements, and I'm always excited to take on new challenges that push my boundaries and expand my skill set.</h3>
 
