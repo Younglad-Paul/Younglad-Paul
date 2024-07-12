@@ -74,5 +74,5 @@
 
 <h3 align="center">Buy me a coffee:</h3>
 <p><a href="https://www.buymeacoffee.com/borisadedar"> 
-  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="borisadedar" />
+  <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="borisadedar" />
 </a></p><br><br>
