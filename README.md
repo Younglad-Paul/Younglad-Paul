@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=younglad-paul" alt="younglad-paul" /></a> </p>
 
-- 📫 How to reach me **borisadedayopaul@gmail.com**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/borisadepaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="borisadepaul" height="30" width="40" /></a>
@@ -19,6 +17,7 @@
 <a href="https://www.youtube.com/@borisadepauldayo948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@borisadepauldayo948" height="30" width="40" /></a>
 <a href="https://discord.gg/youngladpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="youngladpaul" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
