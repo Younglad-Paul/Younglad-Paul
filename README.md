@@ -1,15 +1,14 @@
 <p align="center">
-<img src="https://media1.tenor.com/m/6aSncIN19j8AAAAC/banner.gif" align="center" style="width: 100%; height: 30vh;" />
+ <img src="https://media1.tenor.com/m/GVk4jB2u_i8AAAAd/coding.gif" style="width: 100vw; height: auto;" alt="MasterHead"/>
 </p>
 <h1 align="center">My name is Paul Borisade</h1>
 <h3 align="center">My journey in software development has been driven by a deep curiosity and an unending desire to create and innovate. Constantly evolving and learning new things in the tech world. I love to immerse myself in the world of technology and my enthusiasm for learning keeps me on the lookout for the latest trends and advancements, and I'm always excited to take on new challenges that push my boundaries and expand my skill set.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younglad-paul&label=Profile%20views&color=0e75b6&style=flat" alt="younglad-paul" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=younglad-paul" alt="younglad-paul" /></a> </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/borisadepaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="borisadepaul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/paul-borisade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/paul-borisade" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100083095636541" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100083095636541" height="30" width="40" /></a>
@@ -19,8 +18,8 @@
 </p>
 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
