@@ -3,6 +3,7 @@
 </p>
 <h1 align="center">My name is Paul Borisade</h1>
 <h3 align="center">My journey in software development has been driven by a deep curiosity and an unending desire to create and innovate. Constantly evolving and learning new things in the tech world. I love to immerse myself in the world of technology and my enthusiasm for learning keeps me on the lookout for the latest trends and advancements, and I'm always excited to take on new challenges that push my boundaries and expand my skill set.</h3>
+<hr />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younglad-paul&label=Profile%20views&color=0e75b6&style=flat" alt="younglad-paul" /> </p>
 
@@ -61,12 +62,15 @@
   </a> 
 </p>
 
+<hr />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=younglad-paul&show_icons=true&locale=en&layout=compact" alt="younglad-paul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=younglad-paul&show_icons=true&locale=en" alt="younglad-paul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=younglad-paul&" alt="younglad-paul" /></p>
 
+<hr />
 
 <h3 align="center">Buy me a coffee:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/borisadedar"> 
