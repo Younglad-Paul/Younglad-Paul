@@ -64,11 +64,11 @@
 
 <hr />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=younglad-paul&show_icons=true&locale=en&layout=compact" alt="younglad-paul" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=younglad-paul&theme=dark&background=000000)&show_icons=true&locale=en&layout=compact" alt="younglad-paul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=younglad-paul&show_icons=true&locale=en" alt="younglad-paul" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=younglad-paul&theme=dark&background=000000)&show_icons=true&locale=en" alt="younglad-paul" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=younglad-paul&" alt="younglad-paul" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=younglad-paul&theme=dark&background=000000)" alt="younglad-paul" /></p>
 
 <hr />
 
