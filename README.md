@@ -64,7 +64,7 @@
 
 <hr />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=younglad-paul&theme=dark&background=000000)&show_icons=true&locale=en&layout=compact" alt="younglad-paul" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younglad-paul&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=younglad-paul&theme=dark&background=000000)&show_icons=true&locale=en" alt="younglad-paul" /></p>
 
