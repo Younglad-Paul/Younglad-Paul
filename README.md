@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://media1.tenor.com/m/GVk4jB2u_i8AAAAd/coding.gif" style="width: 100vw; height: 30vh;" alt="MasterHead">
+ <img src="https://media1.tenor.com/m/GVk4jB2u_i8AAAAd/coding.gif" style="width: 100vw; height: 30vh;" alt="MasterHead" />
 </p>
 <h1 align="left">Hello, Welcome to my Github Page</h1>
 <p align="left">My journey in software development has been driven by a deep curiosity and an unending desire to create and innovate. Constantly evolving and learning new things in the tech world. I love to immerse myself in the world of technology and my enthusiasm for learning keeps me on the lookout for the latest trends and advancements, and I'm always excited to take on new challenges that push my boundaries and expand my skill set.</p>
